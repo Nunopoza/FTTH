@@ -1,0 +1,27 @@
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de MATLAB
+*.asv
+*.mex*
+*.mat
+*.fig~
+
+# Salidas de Python o Jupyter (si usas)
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Archivos grandes o pesados
+*.tif
+*.jpg
+*.png
+*.pdf
+*.svg
+*.csv
+
+# Backups
+*.bak
+*.tmp
+*.log
