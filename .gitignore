@@ -15,11 +15,6 @@ __pycache__/
 
 # Archivos grandes o pesados
 *.tif
-*.jpg
-*.png
-*.pdf
-*.svg
-*.csv
 
 # Backups
 *.bak
